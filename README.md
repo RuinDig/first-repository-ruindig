@@ -9,12 +9,10 @@ GitHubで初めてリポジトリを作った
 <table>
   <tbody>
     <tr>
-      <td>
-        マグロ
-        イカ
-        サーモン
-        アジ
-      </td>
+      <td>マグロ</td>
+      <td>イカ</td>
+      <td>サーモン</td>
+      <td>アジ</td>
     </tr>
   </tbody>
 </table>
