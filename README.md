@@ -2,10 +2,10 @@
 RuinDig's first repository on GitHub
 GitHubで初めてリポジトリを作った
 特に特別な事はしない
-コードもない
-<b>こんにちは</b>
-<b>Hello</b>
-表を作ってみる
+<p>コードもない</p>
+<p><b>こんにちは</b></p>
+<p><b>Hello</b></p>
+<p>表を作ってみる</p>
 <table>
   <tbody>
     <tr>
